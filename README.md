@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lokimcpuniverse-chanty-mcp-server-badge.png)](https://mseep.ai/app/lokimcpuniverse-chanty-mcp-server)
+
 # Chanty MCP Server
 
 <div align="center">
